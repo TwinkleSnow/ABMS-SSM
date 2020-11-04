@@ -1,4 +1,4 @@
-package com.twinkle.entity;
+package com.twinkle.pojo;
 
 public class cont_user {
     private int usercont_id;

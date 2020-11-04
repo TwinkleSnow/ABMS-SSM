@@ -1,4 +1,4 @@
-package com.twinkle.entity;
+package com.twinkle.pojo;
 
 public class contacts_main {
     private int contacts_main_id;

@@ -1,4 +1,4 @@
-package com.twinkle.entity;
+package com.twinkle.pojo;
 
 import java.util.Date;
 

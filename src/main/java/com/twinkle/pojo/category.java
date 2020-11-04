@@ -1,4 +1,4 @@
-package com.twinkle.entity;
+package com.twinkle.pojo;
 
 public class category {
     private int category_id;
